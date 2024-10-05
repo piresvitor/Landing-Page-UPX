@@ -10,7 +10,8 @@
     --color-menu-active: #1d1d1d;
     --color-btn: #2fbb91;
     --color-btn-hover:#28a982;
-    --cor-shape: #bce2b7;
+    --cor-shape: #72b1a4;
+    /*#bce2b7;*/
 }
 
 *{
@@ -36,7 +37,7 @@ section{
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
-    box-shadow: 0px 0px 10px 02px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.1);
     cursor: pointer;
     transition: backgroun-color .3s ease;
 }
