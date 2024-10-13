@@ -14,7 +14,10 @@
     --color-btn: #2fbb91;
     --color-btn-hover:#28a982;
     --cor-shape: #72b1a4;
-    /*#bce2b7;*/
+}
+
+html{
+    scroll-behavior: smooth;
 }
 
 *{
