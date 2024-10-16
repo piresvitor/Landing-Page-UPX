@@ -9,5 +9,4 @@ Landing Page feita para a projeto da materia de UPX2 da FACENS
 * JavaScript 
 
 ## Acesse o projeto
-Link: 
-
+Link: https://landing-page-upx.vercel.app/
