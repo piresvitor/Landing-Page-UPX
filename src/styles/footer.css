@@ -1,4 +1,6 @@
 footer{
+    display: flex;
+    flex-direction: column;
     background-color: #a2d4c9;
 }
 
